@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MeetU</string>
+
+    <!--    状态管理模块用到的string-->
+    <!--    作者：陈文锦-->
+    <string name="user_name_sample"> 爱吃糖的小明 </string>
+    <string name="user_name_sample2"> 萌神张飞 </string>
+    <string name="post_time_sample"> 2020年10月20日 </string>
+    <string name="post_time_sample2"> 2020年5月3日 </string>
+    <string name="content_sample"> 今天吃了米线，很开心！\n还和朋友逛街买了一个玩偶。 </string>
+    <string name="content_sample2"> 和小明一起逛街太快乐了吧！\n幸福~~ </string>
+    <string name="name_and_content_sample"> 萌神张飞：和小明一起逛街太快乐了吧！\n幸福~~ </string>
+    <string name="remark_sample1"> 我爱学习：谢谢你！ </string>
+    <string name="remark_sample2"> 鱼儿罐头：知道了~ </string>
+
+    <string name="like_slogan"> 点赞 </string>
+    <string name="remark_slogan"> 评论 </string>
+    <string name="repost_slogan"> 转发 </string>
+    <string name="remark_hint"> 发表评论 </string>
+    <string name="new_content_hint"> 说点什么吧... </string>
+    <string name="new_content_slogan"> 发布 </string>
+    <string name="all_remarks_slogan"> 全部评论 </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--   关注搜索模块用到的string-->
+    <!--    作者：李博洋-->
+    <string name="addFocus">添加关注</string>
+    <string name="cancelFocus">取消关注</string>
+    <string name="watchMoment">查看空间</string>
+    <string name="personInfo">个人资料</string>
+    <string name="gender">性别:</string>
+    <string name="signature">签名:</string>
+    <string name="search">搜索</string>
+    <string name="navigation_icon">导航图标</string>
+    <string name="meetu">MeetU</string>
+    <string name="loginimage">loginImage</string>
+
+
+</resources>
